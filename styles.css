@@ -28,7 +28,7 @@ nav .pages {
 
 nav .pages a {
   text-decoration: none;
-  color: gray;
+  color: #667085;
   font-size: 1rem;
 }
 
@@ -37,22 +37,22 @@ nav .buttons {
   margin-left: auto;
   gap: 32px;
   align-items: center;
+  font-weight: 500;
 }
 
 nav .buttons a {
   text-decoration: none;
-  color: gray;
+  color: #667085;
   font-size: 1rem;
 }
 
 nav .buttons button {
   background-color: #8E2424;
   color: #FFFFFF;
-  border-radius: 8px;
+  border-radius: 0.5rem;
   border: none;
-
-  width: 112px;
-  height: 44px;
+  cursor: pointer;
+  padding: 0.8rem 1rem;
 }
 
 header {
